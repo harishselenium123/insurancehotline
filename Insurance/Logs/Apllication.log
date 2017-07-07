@@ -1,0 +1,36 @@
+03 Jul 12:58:58,459 INFO - Configuration of reporting logs successfully.......... 
+03 Jul 12:59:15,469 INFO - clearing the textBox field....By.id: txtCompanyName 
+03 Jul 12:59:16,323 INFO -  Entering data to the textBox field.... By.id: txtCompanyName 
+03 Jul 12:59:16,804 INFO - clearing the textBox field....By.name: txtContactName 
+03 Jul 12:59:17,472 INFO -  Entering data to the textBox field.... By.name: txtContactName 
+03 Jul 12:59:17,888 INFO - clearing the textBox field....By.id: txtTelephoneNumber 
+03 Jul 12:59:18,440 INFO -  Entering data to the textBox field.... By.id: txtTelephoneNumber 
+03 Jul 12:59:18,897 INFO - clearing the textBox field....By.cssSelector: input#txtEmailAddress 
+03 Jul 12:59:19,405 INFO -  Entering data to the textBox field.... By.cssSelector: input#txtEmailAddress 
+03 Jul 12:59:19,914 INFO - clearing the textBox field....By.xpath: //input[@id='txtWebsite'] 
+03 Jul 12:59:20,438 INFO -  Entering data to the textBox field.... By.xpath: //input[@id='txtWebsite'] 
+03 Jul 12:59:20,930 INFO - Clicking on element ..... By.name: cblLinesOfBusiness$0 
+03 Jul 12:59:21,370 INFO - clearing the textBox field....By.id: txtInsuranceCompanies 
+03 Jul 12:59:21,886 INFO -  Entering data to the textBox field.... By.id: txtInsuranceCompanies 
+03 Jul 12:59:22,414 INFO - clearing the textBox field....By.id: txtRegionsCities 
+03 Jul 12:59:22,959 INFO -  Entering data to the textBox field.... By.id: txtRegionsCities 
+03 Jul 12:59:23,492 INFO - clearing the textBox field....By.id: txtComments 
+03 Jul 12:59:24,075 INFO -  Entering data to the textBox field.... By.id: txtComments 
+05 Jul 13:48:22,573 INFO - Configuration of reporting logs successfully.......... 
+05 Jul 13:48:48,084 INFO - clearing the textBox field....By.id: txtCompanyName 
+05 Jul 13:48:48,947 INFO -  Entering data to the textBox field.... By.id: txtCompanyName 
+05 Jul 13:48:49,372 INFO - clearing the textBox field....By.name: txtContactName 
+05 Jul 13:48:49,820 INFO -  Entering data to the textBox field.... By.name: txtContactName 
+05 Jul 13:48:50,233 INFO - clearing the textBox field....By.id: txtTelephoneNumber 
+05 Jul 13:48:50,750 INFO -  Entering data to the textBox field.... By.id: txtTelephoneNumber 
+05 Jul 13:48:51,128 INFO - clearing the textBox field....By.cssSelector: input#txtEmailAddress 
+05 Jul 13:48:51,553 INFO -  Entering data to the textBox field.... By.cssSelector: input#txtEmailAddress 
+05 Jul 13:48:51,923 INFO - clearing the textBox field....By.xpath: //input[@id='txtWebsite'] 
+05 Jul 13:48:52,337 INFO -  Entering data to the textBox field.... By.xpath: //input[@id='txtWebsite'] 
+05 Jul 13:48:52,801 INFO - Clicking on element ..... By.name: cblLinesOfBusiness$0 
+05 Jul 13:48:53,196 INFO - clearing the textBox field....By.id: txtInsuranceCompanies 
+05 Jul 13:48:53,594 INFO -  Entering data to the textBox field.... By.id: txtInsuranceCompanies 
+05 Jul 13:48:54,145 INFO - clearing the textBox field....By.id: txtRegionsCities 
+05 Jul 13:48:54,672 INFO -  Entering data to the textBox field.... By.id: txtRegionsCities 
+05 Jul 13:48:55,269 INFO - clearing the textBox field....By.id: txtComments 
+05 Jul 13:48:55,794 INFO -  Entering data to the textBox field.... By.id: txtComments 

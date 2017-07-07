@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SmokeTest]">
+  <test name="Testcases Using chrome(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="SmokeTest.InsuranceTestcases">
+        <methods>
+          <include name="initilization"/>
+          <include name="testcases1"/>
+        </methods>
+      </class> <!-- SmokeTest.InsuranceTestcases -->
+    </classes>
+  </test> <!-- Testcases Using chrome(failed) -->
+</suite> <!-- Failed suite [SmokeTest] -->

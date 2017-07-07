@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SmokeTest" duration-ms="38666" started-at="2017-07-05T17:48:22Z" finished-at="2017-07-05T17:49:00Z">
+    <groups>
+    </groups>
+    <test name="Testcases Using chrome" duration-ms="38666" started-at="2017-07-05T17:48:22Z" finished-at="2017-07-05T17:49:00Z">
+      <class name="SmokeTest.InsuranceTestcases">
+        <test-method status="PASS" signature="initilization(java.lang.String)[pri:0, instance:SmokeTest.InsuranceTestcases@54a097cc]" name="initilization" is-config="true" duration-ms="18606" started-at="2017-07-05T13:48:22Z" finished-at="2017-07-05T13:48:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilization -->
+        <test-method status="PASS" signature="BrokerAgentRegistration()[pri:1, instance:SmokeTest.InsuranceTestcases@54a097cc]" name="BrokerAgentRegistration" duration-ms="16661" started-at="2017-07-05T13:48:40Z" finished-at="2017-07-05T13:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrokerAgentRegistration -->
+        <test-method status="PASS" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:SmokeTest.InsuranceTestcases@54a097cc]" name="afterEachTest" is-config="true" duration-ms="553" started-at="2017-07-05T13:48:57Z" finished-at="2017-07-05T13:48:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BrokerAgentRegistration status=SUCCESS method=InsuranceTestcases.BrokerAgentRegistration()[pri:1, instance:SmokeTest.InsuranceTestcases@54a097cc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:SmokeTest.InsuranceTestcases@54a097cc]" name="end" is-config="true" duration-ms="2814" started-at="2017-07-05T13:48:57Z" finished-at="2017-07-05T13:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- SmokeTest.InsuranceTestcases -->
+    </test> <!-- Testcases Using chrome -->
+  </suite> <!-- SmokeTest -->
+</testng-results>

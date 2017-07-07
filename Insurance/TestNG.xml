@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="SmokeTest" verbose="1"  parallel="none">
+<!-- <listeners>
+<listener class-name="Utilities.TestNGListners"></listener>
+
+</listeners> -->
+  <test name="Testcases Using chrome" preserve-order="true">
+ 
+<parameter name="browserName" value="chrome"></parameter>
+
+   <classes>
+   
+    <class name="SmokeTest.InsuranceTestcases">
+     
+    </class>
+    
+  </classes>
+     
+  </test>
+ 
+</suite>

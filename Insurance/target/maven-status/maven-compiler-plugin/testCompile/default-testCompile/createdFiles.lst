@@ -1,0 +1,5 @@
+SmokeTest\InsuranceTestcases.class
+PageObjects\HomePage.class
+PageObjects\BrokerApplicationFormPage2.class
+PageObjects\BrokerApplicationFormPage.class
+PageObjects\LoginPage.class

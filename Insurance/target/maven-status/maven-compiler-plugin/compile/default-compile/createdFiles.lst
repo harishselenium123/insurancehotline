@@ -1,0 +1,10 @@
+genericLibraries\BaseClass.class
+Utilities\XmlReader.class
+genericLibraries\CommonMethod.class
+genericLibraries\Test.class
+Utilities\PropertyFileReader.class
+Utilities\SendReports.class
+Utilities\Xls_Reader.class
+Utilities\ZIPFile.class
+Utilities\SMTPUtility.class
+Utilities\TestNGListners.class
